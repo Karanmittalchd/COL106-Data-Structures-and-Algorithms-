@@ -1,5 +1,5 @@
 # COL106-Data-Structures-and-Algorithms-
-The repository contains six programming assignments in java covered in COL106: Data Structures and Algorithms
+The repository contains six programming assignments in Java covered in COL106: Data Structures and Algorithms
 1) Assignment 1: Matrix Manipulations using TwoDBlockMatrix
 2) Assignment 2: Implementing Simple Calculator and Sorting using Stacks and Queues
 3) Assignment 3: Implementing Election Model using BSTs and Heaps
